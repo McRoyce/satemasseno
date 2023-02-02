@@ -31,6 +31,6 @@ GitHub   : https://github.com/McRoyce<br>
 CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
-Ko-fi    : https://ko-fi.com/S6S7A9I8Q<br>
+![alt text](https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif)Ko-fi    : https://ko-fi.com/S6S7A9I8Q<br>
 Saweria  : https://saweria.co/McRoyce<br>
 Trakteer : https://trakteer.id/McRoyce<br>
