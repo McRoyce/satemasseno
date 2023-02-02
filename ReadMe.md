@@ -10,23 +10,19 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 5. Buka alamat "localhost/satemasseno/admin/" pada browser Web untuk halaman admin.
 
 # Akses akun:
-<ol>
-<li><b>Admin</b></li>
-   <ol type="a">
-   <li>Username: adminganteng</li>
-       Password: adminganteng<br>
-   <li>Username: admincakep</li>
-       Password: admincakep<br>
-   </ol>
+1. <b>Admin</b>
+| No | Username     | Password     |
+|----|--------------|--------------|
+| 1  | adminganteng | adminganteng |
+| 2  | admincakep   | admincakep   |
 
-<li><b>User</b></li>
+2. <b>User</b>
    <ol type="a">
    <li>Username: cjganteng</li>
        Password: cjganteng<br>
    <li>Username: ronaldosui</li>
        Password: ronaldosui<br>
    </ol>
-</ol>
 
 # Jangan lupa kunjungi saya di:
 LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
