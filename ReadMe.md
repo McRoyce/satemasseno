@@ -31,6 +31,6 @@ GitHub   : https://github.com/McRoyce<br>
 CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
-[![Ko-Fi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3.png)](https://ko-fi.com/S6S7A9I8Q)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7A9I8Q)
 <a href="https://trakteer.id/McRoyce" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
 Saweria  : https://saweria.co/McRoyce<br>
