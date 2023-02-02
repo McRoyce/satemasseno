@@ -510,3 +510,203 @@ DEBUG - 2022-11-07 03:27:25 --> Global POST, GET and COOKIE data sanitized
 INFO - 2022-11-07 03:27:25 --> Input Class Initialized
 INFO - 2022-11-07 03:27:25 --> Language Class Initialized
 ERROR - 2022-11-07 03:27:25 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 03:45:15 --> Config Class Initialized
+INFO - 2022-11-07 03:45:15 --> Hooks Class Initialized
+DEBUG - 2022-11-07 03:45:15 --> UTF-8 Support Enabled
+INFO - 2022-11-07 03:45:15 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:15 --> URI Class Initialized
+INFO - 2022-11-07 03:45:15 --> Router Class Initialized
+INFO - 2022-11-07 03:45:15 --> Output Class Initialized
+INFO - 2022-11-07 03:45:15 --> Security Class Initialized
+DEBUG - 2022-11-07 03:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:15 --> Input Class Initialized
+INFO - 2022-11-07 03:45:15 --> Language Class Initialized
+INFO - 2022-11-07 03:45:15 --> Loader Class Initialized
+INFO - 2022-11-07 03:45:15 --> Helper loaded: url_helper
+INFO - 2022-11-07 03:45:15 --> Helper loaded: file_helper
+INFO - 2022-11-07 03:45:15 --> Helper loaded: text_helper
+INFO - 2022-11-07 03:45:15 --> Helper loaded: form_helper
+INFO - 2022-11-07 03:45:15 --> Database Driver Class Initialized
+DEBUG - 2022-11-07 03:45:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-07 03:45:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-07 03:45:15 --> Form Validation Class Initialized
+INFO - 2022-11-07 03:45:15 --> Table Class Initialized
+INFO - 2022-11-07 03:45:15 --> Controller Class Initialized
+INFO - 2022-11-07 03:45:15 --> Model "Menu_model" initialized
+INFO - 2022-11-07 03:45:15 --> File loaded: C:\xampp\htdocs\satemasseno\application\views\admin/body/header.php
+INFO - 2022-11-07 03:45:15 --> File loaded: C:\xampp\htdocs\satemasseno\application\views\admin/paketmenu/daftar.php
+INFO - 2022-11-07 03:45:15 --> File loaded: C:\xampp\htdocs\satemasseno\application\views\admin/body/footer.php
+INFO - 2022-11-07 03:45:15 --> Final output sent to browser
+DEBUG - 2022-11-07 03:45:15 --> Total execution time: 0.5767
+INFO - 2022-11-07 03:45:15 --> Config Class Initialized
+INFO - 2022-11-07 03:45:15 --> Hooks Class Initialized
+DEBUG - 2022-11-07 03:45:15 --> UTF-8 Support Enabled
+INFO - 2022-11-07 03:45:15 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:15 --> URI Class Initialized
+INFO - 2022-11-07 03:45:15 --> Router Class Initialized
+INFO - 2022-11-07 03:45:15 --> Output Class Initialized
+INFO - 2022-11-07 03:45:15 --> Security Class Initialized
+DEBUG - 2022-11-07 03:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:15 --> Input Class Initialized
+INFO - 2022-11-07 03:45:15 --> Language Class Initialized
+ERROR - 2022-11-07 03:45:15 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 03:45:15 --> Config Class Initialized
+INFO - 2022-11-07 03:45:15 --> Hooks Class Initialized
+INFO - 2022-11-07 03:45:15 --> Config Class Initialized
+INFO - 2022-11-07 03:45:15 --> Hooks Class Initialized
+DEBUG - 2022-11-07 03:45:15 --> UTF-8 Support Enabled
+DEBUG - 2022-11-07 03:45:15 --> UTF-8 Support Enabled
+INFO - 2022-11-07 03:45:15 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:15 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:16 --> URI Class Initialized
+INFO - 2022-11-07 03:45:16 --> URI Class Initialized
+INFO - 2022-11-07 03:45:16 --> Router Class Initialized
+INFO - 2022-11-07 03:45:16 --> Output Class Initialized
+INFO - 2022-11-07 03:45:16 --> Router Class Initialized
+INFO - 2022-11-07 03:45:16 --> Security Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:16 --> Output Class Initialized
+INFO - 2022-11-07 03:45:16 --> Input Class Initialized
+INFO - 2022-11-07 03:45:16 --> Language Class Initialized
+INFO - 2022-11-07 03:45:16 --> Security Class Initialized
+ERROR - 2022-11-07 03:45:16 --> 404 Page Not Found: Assets/plugins
+DEBUG - 2022-11-07 03:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:16 --> Input Class Initialized
+INFO - 2022-11-07 03:45:16 --> Language Class Initialized
+ERROR - 2022-11-07 03:45:16 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 03:45:16 --> Config Class Initialized
+INFO - 2022-11-07 03:45:16 --> Hooks Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> UTF-8 Support Enabled
+INFO - 2022-11-07 03:45:16 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:16 --> URI Class Initialized
+INFO - 2022-11-07 03:45:16 --> Router Class Initialized
+INFO - 2022-11-07 03:45:16 --> Output Class Initialized
+INFO - 2022-11-07 03:45:16 --> Security Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:16 --> Input Class Initialized
+INFO - 2022-11-07 03:45:16 --> Language Class Initialized
+ERROR - 2022-11-07 03:45:16 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 03:45:16 --> Config Class Initialized
+INFO - 2022-11-07 03:45:16 --> Hooks Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> UTF-8 Support Enabled
+INFO - 2022-11-07 03:45:16 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:16 --> URI Class Initialized
+INFO - 2022-11-07 03:45:16 --> Router Class Initialized
+INFO - 2022-11-07 03:45:16 --> Output Class Initialized
+INFO - 2022-11-07 03:45:16 --> Security Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:16 --> Input Class Initialized
+INFO - 2022-11-07 03:45:16 --> Language Class Initialized
+ERROR - 2022-11-07 03:45:16 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 03:45:16 --> Config Class Initialized
+INFO - 2022-11-07 03:45:16 --> Hooks Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> UTF-8 Support Enabled
+INFO - 2022-11-07 03:45:16 --> Utf8 Class Initialized
+INFO - 2022-11-07 03:45:16 --> URI Class Initialized
+INFO - 2022-11-07 03:45:16 --> Router Class Initialized
+INFO - 2022-11-07 03:45:16 --> Output Class Initialized
+INFO - 2022-11-07 03:45:16 --> Security Class Initialized
+DEBUG - 2022-11-07 03:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 03:45:16 --> Input Class Initialized
+INFO - 2022-11-07 03:45:16 --> Language Class Initialized
+ERROR - 2022-11-07 03:45:16 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 04:00:37 --> Config Class Initialized
+INFO - 2022-11-07 04:00:37 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:38 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:38 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:38 --> URI Class Initialized
+INFO - 2022-11-07 04:00:38 --> Router Class Initialized
+INFO - 2022-11-07 04:00:38 --> Output Class Initialized
+INFO - 2022-11-07 04:00:38 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:38 --> Input Class Initialized
+INFO - 2022-11-07 04:00:38 --> Language Class Initialized
+INFO - 2022-11-07 04:00:38 --> Loader Class Initialized
+INFO - 2022-11-07 04:00:38 --> Helper loaded: url_helper
+INFO - 2022-11-07 04:00:38 --> Helper loaded: file_helper
+INFO - 2022-11-07 04:00:38 --> Helper loaded: text_helper
+INFO - 2022-11-07 04:00:39 --> Helper loaded: form_helper
+INFO - 2022-11-07 04:00:40 --> Database Driver Class Initialized
+DEBUG - 2022-11-07 04:00:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-07 04:00:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-07 04:00:40 --> Form Validation Class Initialized
+INFO - 2022-11-07 04:00:40 --> Table Class Initialized
+INFO - 2022-11-07 04:00:40 --> Controller Class Initialized
+INFO - 2022-11-07 04:00:40 --> Model "Menu_model" initialized
+INFO - 2022-11-07 04:00:40 --> File loaded: C:\xampp\htdocs\satemasseno\application\views\admin/body/header.php
+INFO - 2022-11-07 04:00:40 --> File loaded: C:\xampp\htdocs\satemasseno\application\views\admin/paketmenu/daftar.php
+INFO - 2022-11-07 04:00:40 --> File loaded: C:\xampp\htdocs\satemasseno\application\views\admin/body/footer.php
+INFO - 2022-11-07 04:00:40 --> Final output sent to browser
+DEBUG - 2022-11-07 04:00:40 --> Total execution time: 3.3262
+INFO - 2022-11-07 04:00:41 --> Config Class Initialized
+INFO - 2022-11-07 04:00:41 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:41 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:41 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:41 --> URI Class Initialized
+INFO - 2022-11-07 04:00:41 --> Router Class Initialized
+INFO - 2022-11-07 04:00:41 --> Output Class Initialized
+INFO - 2022-11-07 04:00:41 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:41 --> Input Class Initialized
+INFO - 2022-11-07 04:00:41 --> Language Class Initialized
+ERROR - 2022-11-07 04:00:41 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 04:00:42 --> Config Class Initialized
+INFO - 2022-11-07 04:00:42 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:42 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:42 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:42 --> URI Class Initialized
+INFO - 2022-11-07 04:00:42 --> Router Class Initialized
+INFO - 2022-11-07 04:00:42 --> Output Class Initialized
+INFO - 2022-11-07 04:00:42 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:42 --> Input Class Initialized
+INFO - 2022-11-07 04:00:42 --> Language Class Initialized
+ERROR - 2022-11-07 04:00:42 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 04:00:42 --> Config Class Initialized
+INFO - 2022-11-07 04:00:42 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:42 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:42 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:42 --> URI Class Initialized
+INFO - 2022-11-07 04:00:42 --> Router Class Initialized
+INFO - 2022-11-07 04:00:42 --> Output Class Initialized
+INFO - 2022-11-07 04:00:42 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:42 --> Input Class Initialized
+INFO - 2022-11-07 04:00:42 --> Language Class Initialized
+ERROR - 2022-11-07 04:00:42 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 04:00:44 --> Config Class Initialized
+INFO - 2022-11-07 04:00:44 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:44 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:44 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:44 --> URI Class Initialized
+INFO - 2022-11-07 04:00:44 --> Router Class Initialized
+INFO - 2022-11-07 04:00:44 --> Output Class Initialized
+INFO - 2022-11-07 04:00:44 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:44 --> Input Class Initialized
+INFO - 2022-11-07 04:00:44 --> Language Class Initialized
+ERROR - 2022-11-07 04:00:44 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 04:00:44 --> Config Class Initialized
+INFO - 2022-11-07 04:00:44 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:44 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:44 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:44 --> URI Class Initialized
+INFO - 2022-11-07 04:00:44 --> Router Class Initialized
+INFO - 2022-11-07 04:00:44 --> Output Class Initialized
+INFO - 2022-11-07 04:00:44 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:44 --> Input Class Initialized
+INFO - 2022-11-07 04:00:44 --> Language Class Initialized
+ERROR - 2022-11-07 04:00:44 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-11-07 04:00:44 --> Config Class Initialized
+INFO - 2022-11-07 04:00:44 --> Hooks Class Initialized
+DEBUG - 2022-11-07 04:00:44 --> UTF-8 Support Enabled
+INFO - 2022-11-07 04:00:44 --> Utf8 Class Initialized
+INFO - 2022-11-07 04:00:44 --> URI Class Initialized
+INFO - 2022-11-07 04:00:44 --> Router Class Initialized
+INFO - 2022-11-07 04:00:44 --> Output Class Initialized
+INFO - 2022-11-07 04:00:44 --> Security Class Initialized
+DEBUG - 2022-11-07 04:00:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-07 04:00:44 --> Input Class Initialized
+INFO - 2022-11-07 04:00:44 --> Language Class Initialized
+ERROR - 2022-11-07 04:00:44 --> 404 Page Not Found: Assets/plugins
