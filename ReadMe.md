@@ -11,7 +11,7 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 
 # Akses akun:
 <ol>
-<li>__Admin__</li>
+<li><b>Admin</b></li>
    <ol type="a">
    <li>Username: adminganteng</li>
        Password: adminganteng<br>
@@ -19,7 +19,7 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
        Password: admincakep<br>
    </ol>
 
-<li>__User__</li>
+<li><b>User</b></li>
    <ol type="a">
    <li>Username: cjganteng</li>
        Password: cjganteng<br>
