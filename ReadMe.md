@@ -34,4 +34,4 @@ CodePen  : https://codepen.io/mcroyce<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7A9I8Q)<br>
 <a href="https://trakteer.id/McRoyce" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a><br>
 Saweria  : https://saweria.co/McRoyce<br>
-https://saweria.co/widgets/qr?streamKey=e2ca090e9d324a289b3516e8ac78be0c
+<a href="https://saweria.co/ganipramudyo" title="Donasi untuk karya Mas Gani"><img src="https://lh3.googleusercontent.com/-iWiFL6bhmKw/YUZ4Bk83S1I/AAAAAAAAHzs/fx087sWKaDEUFhCEGdLVA0DWMuBM634OgCLcBGAsYHQ/image.png" alt="Apreasiasi karya Mas Gani melalui donasi!" /></a><br>
