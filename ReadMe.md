@@ -32,5 +32,7 @@ CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7A9I8Q)<br>
+
 <a href="https://trakteer.id/McRoyce" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a><br>
+
 <a href="https://saweria.co/McRoyce" title="Donasi untuk karya McRoyce"> <img src="https://i.ibb.co/8cg9SQS/index.png" alt="Apreasiasi karya McRoyce melalui donasi!" /></a><br>
