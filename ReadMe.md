@@ -11,16 +11,20 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 
 # Akses akun:
 1. Admin<br>
-   A. Username: adminganteng<br>
+<ol type="a">
+   <li>Username: adminganteng</li>
       Password: adminganteng<br>
-   B. Username: admincakep<br>
+   <li>Username: admincakep</li>
       Password: admincakep<br>
-   
+</ol>
+
 2. User<br>
-   A. Username: cjganteng<br>
+<ol type="a">
+   <li>Username: cjganteng</li>
       Password: cjganteng<br>
-   B. Username: ronaldosui<br>
+   <li>Username: ronaldosui</li>
       Password: ronaldosui<br>
+</ol>
 
 # Jangan lupa kunjungi saya di:
 LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
