@@ -28,7 +28,7 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 # Jangan lupa kunjungi saya di:
 LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
 GitHub   : https://github.com/McRoyce<br>
-![ko-fi](https://cdn-icons-png.flaticon.com/512/2111/2111501.png =250x250)CodePen  : https://codepen.io/mcroyce<br>
+![CodePen](https://cdn-icons-png.flaticon.com/512/2111/2111501.png|width=100px)CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
 <a href="https://trakteer.id/McRoyce" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a><br>
