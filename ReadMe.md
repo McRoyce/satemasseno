@@ -18,12 +18,11 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 | 2.  | admincakep   | adminganteng |
 
 2. **User**
-   <ol type="a">
-   <li>Username: cjganteng</li>
-       Password: cjganteng<br>
-   <li>Username: ronaldosui</li>
-       Password: ronaldosui<br>
-   </ol>
+   
+| No  | Username     | Password     |
+| --- | ------------ | ------------ |
+| 1.  | cjganteng    | cjganteng    |
+| 2.  | ronaldosui   | ronaldosui   |
    
 
 # Jangan lupa kunjungi saya di:
