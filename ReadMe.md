@@ -26,8 +26,8 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
    
 
 # Jangan lupa kunjungi saya di:
-<a href="https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226" title="Kunjungi LinkedIn saya"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100px" alt="Lihat saya di LinkedIn"></a>&nbsp
-<a href="https://github.com/McRoyce" title="Kunjungi GitHub saya"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100px" alt="Lihat karya saya di GitHub"></a>&nbsp
+<a href="https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226" title="Kunjungi LinkedIn saya"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100px" alt="Lihat saya di LinkedIn"></a> &nbsp
+<a href="https://github.com/McRoyce" title="Kunjungi GitHub saya"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100px" alt="Lihat karya saya di GitHub"></a> &nbsp
 <a href="https://codepen.io/mcroyce" title="Kunjungi CodePen saya"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="100px" alt="Lihat karya saya di CodePen"></a>
 
 # Bagi yang mau donasi, silahkan:
