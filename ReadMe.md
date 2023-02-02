@@ -1,5 +1,5 @@
 # Sate Mas Seno
-Ini adalah projek pembuatan program berbasis Web pada Sate Mas Seno sebagai nilai Tugas Akhir.
+Ini adalah projek pembuatan program pemesanan aqiqah dan catering berbasis Web pada Sate Mas Seno. Projek ini dikerjakan untuk nilai Tugas Akhir.
 Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 
 # Cara instalasi:
