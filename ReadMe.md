@@ -15,6 +15,7 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 | -- | ------------ | ------------ |
 | 1  | adminganteng | adminganteng |
 | 2  | admincakep   | adminganteng |
+| 3  | are neat     | $1           |
 
 2. <b>User</b>
    <ol type="a">
