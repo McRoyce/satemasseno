@@ -10,13 +10,6 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 5. Buka alamat "localhost/satemasseno/admin/" pada browser Web untuk halaman admin.
 
 # Akses akun:
-**Admin**
-
-| No  | Username     | Password     |
-| --- | ------------ | ------------ |
-| 1.  | adminganteng | adminganteng |
-| 2.  | admincakep   | admincakep   |
-
 **User**
    
 | No  | Username     | Password     |
@@ -24,6 +17,12 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 | 1.  | cjganteng    | cjganteng    |
 | 2.  | ronaldosui   | ronaldosui   |
    
+**Admin**
+
+| No  | Username     | Password     |
+| --- | ------------ | ------------ |
+| 1.  | adminganteng | adminganteng |
+| 2.  | admincakep   | admincakep   |
 
 # Jangan lupa kunjungi saya di:
 <a href="https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226" title="Kunjungi LinkedIn saya"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="75px" alt="Lihat saya di LinkedIn"></a> &nbsp;
