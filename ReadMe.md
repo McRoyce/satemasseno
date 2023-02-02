@@ -35,4 +35,4 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7A9I8Q)<br>
 
-<a href="https://saweria.co/McRoyce" title="Donasi untuk karya McRoyce"> <img src="https://i.ibb.co/8cg9SQS/index.png" alt="Apreasiasi karya McRoyce melalui donasi!"></a>
+<a href="https://saweria.co/McRoyce" title="Donasi untuk karya McRoyce"> <img src="https://i.ibb.co/8cg9SQS/index.png" width="75px" alt="Apreasiasi karya McRoyce melalui donasi!"></a>
