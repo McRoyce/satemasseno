@@ -12,7 +12,7 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 # Akses akun:
 1. <b>Admin</b>
 | No | Username     | Password     |
-|:--:|:------------:|-------------:|
+|:--:|:------------:|:------------:|
 | 1  | adminganteng | adminganteng |
 | 2  | admincakep   | admincakep   |
 
