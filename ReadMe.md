@@ -10,24 +10,24 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 5. Buka alamat "localhost/satemasseno/admin/" pada browser Web untuk halaman admin.
 
 # Akses akun:
-1. Admin
-   A. Username: adminganteng
-      Password: adminganteng
-   B. Username: admincakep
-      Password: admincakep
+1. Admin<br>
+   A. Username: adminganteng<br>
+      Password: adminganteng<br>
+   B. Username: admincakep<br>
+      Password: admincakep<br>
    
-2. User
-   A. Username: cjganteng
+2. User<br>
+   A. Username: cjganteng<br>
       Password: cjganteng<br>
-   B. Username: ronaldosui
+   B. Username: ronaldosui<br>
       Password: ronaldosui<br>
 
 # Jangan lupa kunjungi saya di:
-LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226
-GitHub   : https://github.com/McRoyce
-CodePen  : https://codepen.io/mcroyce
+LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
+GitHub   : https://github.com/McRoyce<br>
+CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
-Ko-fi    : https://ko-fi.com/S6S7A9I8Q
-Saweria  : https://saweria.co/McRoyce
-Trakteer : https://trakteer.id/McRoyce
+Ko-fi    : https://ko-fi.com/S6S7A9I8Q<br>
+Saweria  : https://saweria.co/McRoyce<br>
+Trakteer : https://trakteer.id/McRoyce<br>
