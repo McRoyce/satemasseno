@@ -10,14 +10,14 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 5. Buka alamat "localhost/satemasseno/admin/" pada browser Web untuk halaman admin.
 
 # Akses akun:
-1. **Admin**
+**Admin**
 
 | No  | Username     | Password     |
 | --- | ------------ | ------------ |
 | 1.  | adminganteng | adminganteng |
 | 2.  | admincakep   | admincakep   |
 
-2. **User**
+**User**
    
 | No  | Username     | Password     |
 | --- | ------------ | ------------ |
