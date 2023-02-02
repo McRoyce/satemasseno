@@ -12,9 +12,9 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 # Akses akun:
 1. <b>Admin</b>
 | No | Username     | Password     |
-|:--:|:------------:|:------------:|
+| -- | ------------ | ------------ |
 | 1  | adminganteng | adminganteng |
-| 2  | admincakep   | admincakep   |
+| 2  | admincakep   | adminganteng |
 
 2. <b>User</b>
    <ol type="a">
@@ -25,11 +25,6 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
    </ol>
    
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 # Jangan lupa kunjungi saya di:
 LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
 GitHub   : https://github.com/McRoyce<br>
