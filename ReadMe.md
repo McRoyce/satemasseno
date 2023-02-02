@@ -1,6 +1,6 @@
 # Sate Mas Seno
-Ini adalah projek pembuatan program pemesanan aqiqah dan catering berbasis web pada Sate Mas Seno sebagai nilai tugas akhir.
-Projek ini menggunakan framework CodeIgniter dan Bootstrap.
+Ini adalah projek pembuatan program pemesanan aqiqah dan catering berbasis web pada Sate Mas Seno. Projek ini dibuat untuk penilaian tugas akhir.
+Menggunakan framework CodeIgniter versi 3.1.11 dan Bootstrap versi 4.0.0
 
 # Cara instalasi:
 1. Instal XAMPP dengan PHP versi 7.4.
