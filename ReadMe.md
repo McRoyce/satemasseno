@@ -26,9 +26,9 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
    
 
 # Jangan lupa kunjungi saya di:
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10px"> LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="10px"> GitHub   : https://github.com/McRoyce<br>
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="10px"> CodePen  : https://codepen.io/mcroyce<br>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px"> LinkedIn : https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226<br>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15px"> GitHub   : https://github.com/McRoyce<br>
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="15px"> CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
 <a href="https://trakteer.id/McRoyce" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a><br>
