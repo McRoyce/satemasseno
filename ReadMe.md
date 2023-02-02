@@ -11,11 +11,11 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 
 # Akses akun:
 1. **Admin**
+
 | No  | Username     | Password     |
 | --- | ------------ | ------------ |
 | 1.  | adminganteng | adminganteng |
 | 2.  | admincakep   | adminganteng |
-| 3.  | are neat     | $1           |
 
 2. **User**
    <ol type="a">
