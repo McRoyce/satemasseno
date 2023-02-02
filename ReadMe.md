@@ -15,7 +15,7 @@ Projek ini menggunakan framework CodeIgniter dan Bootstrap.
 | No  | Username     | Password     |
 | --- | ------------ | ------------ |
 | 1.  | adminganteng | adminganteng |
-| 2.  | admincakep   | adminganteng |
+| 2.  | admincakep   | admincakep   |
 
 2. **User**
    
