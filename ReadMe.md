@@ -32,5 +32,6 @@ CodePen  : https://codepen.io/mcroyce<br>
 
 # Bagi yang mau donasi, silahkan:
 [![Ko-Fi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cac59d00ca8b5409de931cd_support3.gif)](https://ko-fi.com/S6S7A9I8Q)
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/McRoyce','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
 Saweria  : https://saweria.co/McRoyce<br>
 Trakteer : https://trakteer.id/McRoyce<br>
